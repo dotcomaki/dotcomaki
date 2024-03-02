@@ -4,7 +4,7 @@
 I am a 19 year old student developer, currently
 studying Data Science & Programming in IIT Madras and working part-time independently.
 
-- Here's my portfolio website - [Akif's Portfolio](dotcomaki.github.io)
+- Here's my portfolio website - [Akif's Portfolio](https://dotcomaki.github.io)
 - To connect with me, here's my [LinkedIn](https://linkedin.com/in/mohammadakif)
 - For any other social, my username is `dotcomaki` everywhere (socials linked down anyway).
 
@@ -25,7 +25,4 @@ studying Data Science & Programming in IIT Madras and working part-time independ
 
 ## Contact Me
 
-[Email](mailto:dotcomakif@gmail.com) |
-[LinkedIn](https://www.linkedin.com/in/mohammadakif) | [Instagram](instagram.com/dotcomaki) | 
-[X](x.com/dotcomaki) | 
-
+[Email](mailto:dotcomakif@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohammadakif) | [Instagram](https://www.instagram.com/dotcomaki) | [X](https://x.com/dotcomaki) 
