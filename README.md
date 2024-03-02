@@ -6,7 +6,7 @@ studying Data Science & Programming in IIT Madras and working part-time independ
 
 - Here's my portfolio website - [Akif's Portfolio](https://dotcomaki.github.io)
 - To connect with me, here's my [LinkedIn](https://linkedin.com/in/mohammadakif)
-- For any other social, my username is `dotcomaki` everywhere (socials linked down anyway).
+- For any other social, my username is `dotcomaki` everywhere.
 
 ## Armoury
 -`Python`|`Java`|`Flutter`-
@@ -22,7 +22,3 @@ studying Data Science & Programming in IIT Madras and working part-time independ
 - I love playing open world games (latest favourite is Elden Ring), sometimes make digital art.
 - I'm super into music - if you want to explore that, search `dotcomaki` on Spotify, Apple Music or any preferred music platform.
 - Other interests include reading, animanga, basketball, The Office, The Big Bang Theory.
-
-## Contact Me
-
-[Email](mailto:dotcomakif@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohammadakif) | [Instagram](https://www.instagram.com/dotcomaki) | [X](https://x.com/dotcomaki) 
