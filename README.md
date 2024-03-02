@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**dotcomaki/dotcomaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Akif!
 
-Here are some ideas to get you started:
+I am a 19 year old student developer, currently
+studying Data Science & Programming in IIT Madras and working part-time independently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Here's my portfolio website - [Akif's Portfolio](dotcomaki.github.io)
+- To connect with me, here's my [LinkedIn](https://linkedin.com/in/mohammadakif)
+- For any other social, my username is `dotcomaki` everywhere (socials linked down anyway).
+
+## Armoury
+-`Python`|`Java`|`Flutter`-
+
+-`HTML`|`CSS`|`JavaScript`-
+
+-`MySQL`|`NumPy`|`Matplotlib`-
+
+-`Git`|`Statistics`|`Graphic Design`-
+
+## About Me
+
+- I love playing open world games (latest favourite is Elden Ring), sometimes make digital art.
+- I'm super into music - if you want to explore that, search `dotcomaki` on Spotify, Apple Music or any preferred music platform.
+- Other interests include reading, animanga, basketball, The Office, The Big Bang Theory.
+
+## Contact Me
+
+[Email](mailto:dotcomakif@gmail.com) |
+[LinkedIn](https://www.linkedin.com/in/mohammadakif) | [Instagram](instagram.com/dotcomaki) | 
+[X](x.com/dotcomaki) | 
+
