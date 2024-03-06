@@ -11,11 +11,11 @@ studying Data Science & Programming in IIT Madras and working part-time independ
 ## Armoury
 -`Python`|`Java`|`Flutter`|`Flask`-
 
--`MySQL`|`NumPy`|`Matplotlib`-
+-`MySQL`|`NumPy`|`Matplotlib`|`Pandas`-
 
--`HTML`|`CSS`|`JavaScript`-
+-`HTML`|`CSS & Bootstrap`|`JavaScript`-
 
--`Git`|`Statistics`|`Graphic Design`-
+-`Git`|`Statistical Analysis`|`Graphic Design`-
 
 ## About Me
 
