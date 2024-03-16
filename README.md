@@ -9,7 +9,7 @@ studying Data Science & Programming in IIT Madras and working part-time independ
 - For any other social, my username is `dotcomaki` everywhere.
 
 ## Armoury
--`Python`|`Java`|`Flutter (Dart)`|`Flask`-
+-`Python`|`Java`|`Flutter (Dart)`|`Firebase`-
 
 -`MySQL`|`NumPy`|`Matplotlib`|`Pandas`-
 
