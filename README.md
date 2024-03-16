@@ -1,4 +1,4 @@
-# 👾 Hello, I am Akif:
+# 👾 Hello, I am Akif
 🔭 I’m currently working in mobile and web development<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning PyTorch, TensorFlow, SciKit-Learn<br>💬 Ask me about data science, artificial intelligence, trend topics in technology<br> Fun fact - I love playing open world games (latest favourite is Spider-Man 2) and I sometimes make digital art.<br>I'm super into music - if you want to explore that, search dotcomaki on Spotify, Apple Music or any preferred music platform.<br>Other interests include reading, animanga, basketball, The Office, The Big Bang Theory.
 
 
