@@ -1,5 +1,5 @@
 # 👾 Hello, I am Akif
-🔭 I’m currently working in mobile and web development in Flutter<br>🤝 I’m looking for help with Machine Learning and TensorFlow<br>🌱 I’m currently learning PyTorch, TensorFlow, SciKit-Learn<br>💬 Ask me about data science, artificial intelligence, trend topics in technology<br> Fun fact - I love playing open world video games and I sometimes make digital art.<br>I make music - if you want to explore, search dotcomaki on preferred music platform.<br>Other interests include reading, animanga, basketball, The Office, The Big Bang Theory.
+🔭 I’m currently working in mobile and web development in Flutter<br>🤝 I’m looking for help with Machine Learning and TensorFlow<br>🌱 I’m currently learning PyTorch, TensorFlow, SciKit-Learn<br>💬 Ask me about data science, artificial intelligence, trend topics in technology<br> Fun fact - I love playing open world video games and I sometimes make digital art<br>I make music - if you want to explore, search dotcomaki on preferred music platform<br>Other interests include reading, animanga, basketball, The Office, The Big Bang Theory
 
 
 ## 🌐 Socials:
