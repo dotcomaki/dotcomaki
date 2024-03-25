@@ -5,7 +5,7 @@
 💬 Ask me about data science, artificial intelligence, trend topics in technology<br>
 Fun fact - I love playing open world video games and sometimes make digital art<br>
 I make music - if you want to explore, search dotcomaki on preferred music platform<br>
-Other interests include reading, animanga, basketball, The Office, The Big Bang Theory
+Other interests include walking, animanga, basketball, The Office, The Big Bang Theory
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/imdakif)
