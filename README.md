@@ -52,6 +52,6 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 [![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)](https://www.adobe.com/in/products/photoshop-lightroom-classic.html)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dotcomaki&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=daspartho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dotcomaki&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dotcomaki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
