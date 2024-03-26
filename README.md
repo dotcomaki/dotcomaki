@@ -70,6 +70,5 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dotcomaki&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dotcomaki&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dotcomaki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
