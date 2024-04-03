@@ -1,4 +1,4 @@
-# 👾 Hello, I am Akif
+# 👾 Hello world, I am Akif
 🔭 I’m currently working in mobile & web development using Flutter<br>
 🤝 I’m looking for help with Machine Learning using Python<br>
 🌱 I’m currently learning scikit-learn, PyTorch & TensorFlow<br>
