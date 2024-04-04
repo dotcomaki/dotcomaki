@@ -70,7 +70,6 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)](https://www.adobe.com/in/products/photoshop-lightroom-classic.html)<br>
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)](https://www.vmware.com/)
 
 ### Operating Systems I Build For
