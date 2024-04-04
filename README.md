@@ -81,6 +81,4 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dotcomaki&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dotcomaki&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dotcomaki&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![reimaginedreadme](https://myreadme.vercel.app/api/embed/dotcomaki?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/dotcomaki)
