@@ -81,4 +81,4 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ## 📊 GitHub Stats:
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/dotcomaki?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/dotcomaki)
+[![reimaginedreadme](https://myreadme.vercel.app/api/embed/dotcomaki?panels=userstatistics,toprepositories,toplanguages,commitgraph)](http://creations.mtdv.me/reimaginedreadme)
