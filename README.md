@@ -8,6 +8,8 @@ Fun fact - I love playing open world video games & sometimes make digital art<br
 I also make music - if you want to explore, search dotcomaki on preferred music platform<br>
 Other interests include walking, animanga, basketball, The Office, The Big Bang Theory
 
+[![wakatime](https://wakatime.com/badge/user/018de45f-f22a-4ba2-af72-6f78966ba028.svg)](https://wakatime.com/@018de45f-f22a-4ba2-af72-6f78966ba028)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/imdakif)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dotcomaki)
