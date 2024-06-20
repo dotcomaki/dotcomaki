@@ -21,7 +21,7 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 ### 🏢 Book a meeting with me:
 [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/dotcomaki/)
 
-### 🥐 Support Me!
+### 🥐 Support Me:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dotcomaki)<br>
 
 ## 💻 Tech Stack:
