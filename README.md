@@ -20,9 +20,6 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 ### 🏢 Book a meeting with me:
 [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/dotcomaki/)
 
-### 🥐 Support Me:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dotcomaki)<br>
-
 ## 💻 Tech Stack:
 
 ### Languages
@@ -75,3 +72,6 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows?r=1)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/in/macos/sonoma/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)<br>
+
+### 🥐 Support Me:
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dotcomaki)<br>
