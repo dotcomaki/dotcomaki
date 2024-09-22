@@ -8,7 +8,7 @@ Fun fact - I love playing open world video games & sometimes make digital art<br
 I also make music - if you want to explore, search dotcomaki on preferred music platform<br>
 Other interests include walking, animanga, basketball, The Office, The Big Bang Theory
 
-[![wakatime](https://wakatime.com/badge/user/018de45f-f22a-4ba2-af72-6f78966ba028.svg)](https://wakatime.com/@018de45f-f22a-4ba2-af72-6f78966ba028)<br>
+[![wakatime](https://wakatime.com/badge/user/018de45f-f22a-4ba2-af72-6f78966ba028.svg)](https://wakatime.com/@018de45f-f22a-4ba2-af72-6f78966ba028)<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/imdakif)
@@ -18,7 +18,7 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23791229)<br>
 
 ### 🏢 Book a meeting with me:
-[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/dotcomaki/)
+[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/dotcomaki/)<br>
 
 ## 💻 Tech Stack:
 
@@ -71,7 +71,7 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows?r=1)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/in/macos/sonoma/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)<br>
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)<br><br>
 
 ## 🥐 Support Me:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dotcomaki)<br>
