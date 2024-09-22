@@ -18,7 +18,7 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23791229)<br>
 
 ### 🏢 Book a meeting with me:
-[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/dotcomaki/)<br>
+[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/dotcomaki/)<br><br>
 
 ## 💻 Tech Stack:
 
