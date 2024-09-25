@@ -1,5 +1,5 @@
 # 👾 Hello world, I am Akif
-🔭 I’m currently working in mobile & web development using Flutter<br>
+🔭 I’m currently working on application development using Flutter<br>
 🌱 I’m currently learning scikit-learn, PyTorch & TensorFlow<br>
 🤝 I’m looking for help with Machine Learning using Python<br>
 💬 Ask me about data science, artificial intelligence & trend topics in technology<br>
