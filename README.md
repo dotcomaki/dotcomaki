@@ -1,12 +1,12 @@
 # 👾 Hello world, I am Akif
-🔭 I’m currently working on application development using Flutter<br>
+🔭 I’m currently developing multiOS applications using Flutter<br>
 🌱 I’m currently learning scikit-learn, PyTorch & TensorFlow<br>
 🤝 I’m looking for help with Machine Learning using Python<br>
 💬 Ask me about data science, artificial intelligence & trend topics in technology<br>
 
-Fun fact - I love playing open world video games & sometimes make digital art<br>
-I also make music - if you want to explore, search dotcomaki on preferred music platform<br>
-Other interests include walking, animanga, basketball, The Office, The Big Bang Theory
+Fun fact - I love playing video games & sometimes make digital art<br>
+I also make music - if you want to explore, search 'dotcomaki' on your streaming platform<br>
+Other interests include animanga, basketball, sitcoms, Formula 1
 
 [![wakatime](https://wakatime.com/badge/user/018de45f-f22a-4ba2-af72-6f78966ba028.svg)](https://wakatime.com/@018de45f-f22a-4ba2-af72-6f78966ba028)<br><br>
 
@@ -42,7 +42,7 @@ Other interests include walking, animanga, basketball, The Office, The Big Bang 
 ### Back-End
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)<br>
 
