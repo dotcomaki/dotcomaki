@@ -2,7 +2,7 @@
 🔭 I’m currently developing multiOS applications using Flutter<br>
 🌱 I’m currently learning scikit-learn, PyTorch & TensorFlow<br>
 🤝 I’m looking for help with Machine Learning using Python<br>
-💬 Ask me about data science, artificial intelligence & trend topics in technology<br>
+💬 Ask me about data science, AI & trend topics in technology<br>
 
 Fun fact - I love playing video games & sometimes make digital art<br>
 I also make music - if you want to explore, search 'dotcomaki' on your streaming platform<br>
