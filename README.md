@@ -1,5 +1,5 @@
 # 👾 Hello world, I am Akif
-🔭 I’m currently developing multi OS full-stack applicationsr<br>
+🔭 I’m currently developing multi OS full-stack applications<br>
 🌱 I’m currently learning scikit-learn, PyTorch & TensorFlow<br>
 🤝 I’m looking for help with Machine Learning using Python<br>
 💬 Ask me about data science, AI & trend topics in technology<br>
