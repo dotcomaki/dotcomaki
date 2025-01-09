@@ -1,6 +1,6 @@
 # 👾 Hello world, I am Akif
 🔭 I’m currently developing multi OS full-stack applications<br>
-🤝 I’m looking for help with TensorFlow and PyTorchn<br>
+🤝 I’m looking for help with TensorFlow and PyTorch<br>
 💬 Ask me about data science, AI & trend topics in technology<br>
 
 Fun fact - I love playing video games & sometimes make digital art<br>
