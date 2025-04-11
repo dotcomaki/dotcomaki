@@ -1,5 +1,5 @@
 # 👾 Hello world, I am Akif
-🔭 I’m currently developing multi OS full-stack applications<br>
+🔭 I’m currently building multi OS full-stack applications<br>
 🤝 I’m looking for help with Machine Learning<br>
 💬 Ask me about data science, AI & trend topics in technology<br>
 
