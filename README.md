@@ -1,11 +1,6 @@
 # 👾 Hello world, I am Akif
 🔭 I’m currently building multi OS full-stack applications<br>
 🤝 I’m looking for help with Machine Learning<br>
-💬 Ask me about data science, AI & trend topics in technology<br>
-
-Fun fact - I love playing video games & sometimes make digital art<br>
-I also make music - if you want to explore, search 'dotcomaki' on your streaming platform<br>
-Other interests include animanga, basketball, sitcoms, Formula 1
 
 [![wakatime](https://wakatime.com/badge/user/018de45f-f22a-4ba2-af72-6f78966ba028.svg)](https://wakatime.com/@018de45f-f22a-4ba2-af72-6f78966ba028)<br><br>
 
