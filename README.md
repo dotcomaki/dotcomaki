@@ -3,7 +3,7 @@
 🤝 I’m looking for help with Machine Learning<br>
 💬 You can contact me through my socials below<br>
 
-[![wakatime](https://wakatime.com/badge/user/018de45f-f22a-4ba2-af72-6f78966ba028.svg)](https://wakatime.com/@018de45f-f22a-4ba2-af72-6f78966ba028)<br>
+[![wakatime](https://wakatime.com/badge/user/018de45f-f22a-4ba2-af72-6f78966ba028.svg?style=for-the-badge)](https://wakatime.com/@018de45f-f22a-4ba2-af72-6f78966ba028)<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/imdakif)
