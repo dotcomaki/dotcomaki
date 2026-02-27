@@ -3,8 +3,6 @@
 🎓 I’m currently pursuing a BS in Data Science & AI<br>
 💬 You can contact me through my socials below<br>
 
-[![wakatime](https://wakatime.com/badge/user/018de45f-f22a-4ba2-af72-6f78966ba028.svg?style=for-the-badge)](https://wakatime.com/@018de45f-f22a-4ba2-af72-6f78966ba028)<br>
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/imdakif)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dotcomaki)
@@ -57,3 +55,5 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.com/)
 [![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)](https://www.adobe.com/in/creativecloud.html)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)<br>
+
+[![wakatime](https://wakatime.com/badge/user/018de45f-f22a-4ba2-af72-6f78966ba028.svg?style=for-the-badge)](https://wakatime.com/@018de45f-f22a-4ba2-af72-6f78966ba028)<br>
